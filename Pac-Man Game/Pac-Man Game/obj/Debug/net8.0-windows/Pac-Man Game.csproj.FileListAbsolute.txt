@@ -1,0 +1,20 @@
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\bin\Debug\net8.0-windows\Pac-Man Game.exe
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\bin\Debug\net8.0-windows\Pac-Man Game.deps.json
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\bin\Debug\net8.0-windows\Pac-Man Game.runtimeconfig.json
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\bin\Debug\net8.0-windows\Pac-Man Game.dll
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\bin\Debug\net8.0-windows\Pac-Man Game.pdb
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\MainWindow.g.cs
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\App.g.cs
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game_MarkupCompile.cache
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game_MarkupCompile.lref
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\MainWindow.baml
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game.g.resources
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game.GeneratedMSBuildEditorConfig.editorconfig
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game.AssemblyInfoInputs.cache
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game.AssemblyInfo.cs
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game.csproj.CoreCompileInputs.cache
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game.dll
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\refint\Pac-Man Game.dll
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game.pdb
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\Pac-Man Game.genruntimeconfig.cache
+P:\Pac-Man\Pac-Man Game\Pac-Man Game\obj\Debug\net8.0-windows\ref\Pac-Man Game.dll
